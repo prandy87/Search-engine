@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border-radius: 0;
+    font-family: Roboto, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+html {
+    /*font-size: 62.5%;*/
+    height: 100%;
+}
+
+/*body {
+    background-image: url("stormtroopers-white-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+  }*/
+
+:root {
+    --white-70pc: rgba(255, 255, 255, 0.7);
+    --white-90pc: rgba(246, 246, 246, 0.9);
+    --warm-grey: #bcb5b9;
+    --warm-grey-50pc: rgba(188, 181, 185, 0.5);
+    --warm-grey-10pc: rgba(188, 181, 185, 0.1);
+    --warm-grey-7pc: rgba(188, 181, 185, 0.07);
+    --maroon: #574751;
+    --maroon-20pc: rgba(87, 71, 81, 0.2);
+    --maroon-50pc: rgba(87, 71, 81, 0.5);
+    --maroon-70pc: rgba(87, 71, 81, 0.7);
+    --maroon-95pc: rgba(87, 71, 81, 0.95);
+    --light-green: #c8cf2d;
+    --peach: #ee6723;
+    --peach-20pc: rgba(238, 103, 35, 0.2);
+    --peach-50pc: rgba(238, 103, 35, 0.5);
+    --peach-99pc: rgba(238, 103, 35, 0.99);
+    --yellow: #feee00;
+    --yellow-50pc: rgba(254, 238, 0, 0.5);
+    --orange: #f69833;
+    --light-orange: #fdbd39;
+    --light-orange-15pc: rgba(253, 189, 57, 0.15);
+    --light-orange-99pc: rgba(253, 189, 57, 0.99);
+}
